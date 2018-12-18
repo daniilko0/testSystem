@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="ie=edge">
+		<title>Я и моя родина</title>
+		<link rel="shortcut icon" type="image/png" href="images/37/logo.png">
+		<link rel="stylesheet" href="main.css">
+	</head>
+
+	<body>
+
+		<div class="test__wrapper">
+			<div class="test__start" data-test-role="startScreen">
+				<div class="article-title">Тест по истории Ивановской области</div>
+				<div class="article-subtitle">Включает 22 вопроса по Фурманову</div>
+				<a class="test__button" href="javascript://0" data-test-role="startTestButton">Начать тест</a>
+			</div>
+
+			<div class="test__frame" data-test-role="testScreen">
+				<div class="article-title" data-test-role="questionTitle"></div>
+				<div class="article-subtitle" data-test-role="questionText"></div>
+
+				<div class="question__image-inner" data-test-role="qImgInner">
+
+				</div>
+
+				<div class="answer__holder" data-test-role="answersHolder">
+
+					<div class="answer" data-test-role="answer0Holder"></div>
+					<div class="answer" data-test-role="answer1Holder"></div>
+					<div class="answer" data-test-role="answer2Holder"></div>
+					<div class="answer" data-test-role="answer3Holder"></div>
+
+				</div>
+
+			</div>
+
+			<div class="test__finish" data-test-role="finishScreen">
+
+				<div class="article-title">Тест завершен!</div>
+
+				<div>
+					<div class="result" data-test-role="result"></div>
+					<div class="slash" data-test-role="slash">/</div>
+					<div class="questions" data-test-role="questions"></div>
+					<div class="text">&nbsp; правильных ответов</div>
+				</div>
+
+				<a class="test__button" href="javascript://0" dat      a-test-role="restartTestButton">Ещё раз</a>
+
+
+			</div>
+
+			<script src="jquery.min.js"></script>
+			<script src="testV3.js"></script>
+	</body>
+
+</html>
