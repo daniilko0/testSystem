@@ -1,3 +1,11 @@
+<!--
+	I and my Motherland
+	Copyright 2017-2018 daniilko0 & co.
+	Licensed by CC-BY-NC-SA v4.0
+	Version 8.10.1
+-->
+
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -5,13 +13,16 @@
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta http-equiv="X-UA-Compatible" content="ie=edge">
-		<title>Я и моя родина</title>
-		<link rel="shortcut icon" type="image/png" href="images/37/logo.png">
-		<link rel="stylesheet" href="main.css">
+
+
+		<link rel="stylesheet" href="assets/css/main.css">
+		<link rel="stylesheet" href="assets/libs/fontawesome/css/all.css">
+		<link rel="shortcut icon" type="image/png" href="assets/images/37/logo.png">
+		<title>Я и моя Родина</title>
+
 	</head>
 
 	<body>
-
 		<div class="test__wrapper">
 			<div class="test__start" data-test-role="startScreen">
 				<div class="article-title">Тест по истории Ивановской области</div>
@@ -19,13 +30,15 @@
 				<a class="test__button" href="javascript://0" data-test-role="startTestButton">Начать тест</a>
 			</div>
 
+			<div class="test__preloader" data-test-role="loading">
+				<div class="fal fa-spinner fa-spin fa-7x"></div>
+			</div>
+
 			<div class="test__frame" data-test-role="testScreen">
 				<div class="article-title" data-test-role="questionTitle"></div>
 				<div class="article-subtitle" data-test-role="questionText"></div>
 
-				<div class="question__image-inner" data-test-role="qImgInner">
-
-				</div>
+				<div class="question__image-inner" data-test-role="qImgInner"></div>
 
 				<div class="answer__holder" data-test-role="answersHolder">
 
@@ -48,15 +61,15 @@
 					<div class="questions" data-test-role="questions"></div>
 					<div class="text">&nbsp; правильных ответов</div>
 				</div>
-
-				<a class="test__button" href="javascript://0" data-test-role="restartTestButton">Ещё раз</a>
-
-
 			</div>
 
-			<script src="jquery.min.js"></script>
-			<script src="shuffle.js"></script>
-			<script src="testV3.js"></script>
+
+		</div>
+
+
+		<script src="assets/js/jquery.min.js"></script>
+		<script src="assets/js/shuffle.js"></script>
+		<script src="assets/js/test.js"></script>
 	</body>
 
 </html>
