@@ -1,2 +1,2 @@
-*.gitconfig
-_config.yml
+/.gitconfig
+/_config.yml
