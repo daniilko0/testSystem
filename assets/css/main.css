@@ -46,7 +46,6 @@ html {
 	font-style: normal;
 	font-weight: 400;
 	src: local("Montserrat Regular"), local("Montserrat-Regular"), url(../../assets/fonts/Montserrat/MontserratCyrExtNormal.woff2) format("woff2");
-	unicode-range: u+0460-052f, u+1c80-1c88, u+20b4, u+2de0-2dff, u+a640-a69f, u+fe2e-fe2f
 }
 
 @font-face {
@@ -54,7 +53,6 @@ html {
 	font-style: normal;
 	font-weight: 400;
 	src: local("Montserrat Regular"), local("Montserrat-Regular"), url(../../assets/fonts/Montserrat/MontserratCyrNormal.woff2) format("woff2");
-	unicode-range: u+0400-045f, u+0490-0491, u+04b0-04b1, u+2116
 }
 
 @font-face {
@@ -62,7 +60,6 @@ html {
 	font-style: normal;
 	font-weight: 400;
 	src: local("Montserrat Regular"), local("Montserrat-Regular"), url(../../assets/fonts/Montserrat/MontserratLatinExtNormal.woff2) format("woff2");
-	unicode-range: u+0100-024f, u+0259, u+1e??, u+2020, u+20a0-20ab, u+20ad-20cf, u+2113, u+2c60-2c7f, u+a720-a7ff
 }
 
 @font-face {
@@ -70,7 +67,6 @@ html {
 	font-style: normal;
 	font-weight: 400;
 	src: local("Montserrat Regular"), local("Montserrat-Regular"), url(../../assets/fonts/Montserrat/MontserratLatinNormal.woff2) format("woff2");
-	unicode-range: u+00??, u+0131, u+0152-0153, u+02bb-02bc, u+02c6, u+02da, u+02dc, u+2000-206f, u+2074, u+20ac, u+2122, u+2191, u+2193, u+2212, u+2215, u+feff, u+fffd
 }
 
 @font-face {
@@ -78,7 +74,6 @@ html {
 	font-style: normal;
 	font-weight: 500;
 	src: local("Montserrat Medium"), local("Montserrat-Medium"), url(../../assets/fonts/Montserrat/MontserratCyrExtMedium.woff2) format("woff2");
-	unicode-range: u+0460-052f, u+1c80-1c88, u+20b4, u+2de0-2dff, u+a640-a69f, u+fe2e-fe2f
 }
 
 @font-face {
@@ -86,7 +81,6 @@ html {
 	font-style: normal;
 	font-weight: 500;
 	src: local("Montserrat Medium"), local("Montserrat-Medium"), url(../../assets/fonts/Montserrat/MontserratCyrMedium.woff2) format("woff2");
-	unicode-range: u+0400-045f, u+0490-0491, u+04b0-04b1, u+2116
 }
 
 @font-face {
@@ -94,7 +88,6 @@ html {
 	font-style: normal;
 	font-weight: 500;
 	src: local("Montserrat Medium"), local("Montserrat-Medium"), url(../../assets/fonts/Montserrat/MontserratLatinExtMedium.woff2) format("woff2");
-	unicode-range: u+0100-024f, u+0259, u+1e??, u+2020, u+20a0-20ab, u+20ad-20cf, u+2113, u+2c60-2c7f, u+a720-a7ff
 }
 
 @font-face {
@@ -102,7 +95,6 @@ html {
 	font-style: normal;
 	font-weight: 500;
 	src: local("Montserrat Medium"), local("Montserrat-Medium"), url(../../assets/fonts/Montserrat/MontserratLatinMedium.woff2) format("woff2");
-	unicode-range: u+00??, u+0131, u+0152-0153, u+02bb-02bc, u+02c6, u+02da, u+02dc, u+2000-206f, u+2074, u+20ac, u+2122, u+2191, u+2193, u+2212, u+2215, u+feff, u+fffd
 }
 
 @font-face {
@@ -110,7 +102,6 @@ html {
 	font-style: normal;
 	font-weight: 700;
 	src: local("Montserrat Bold"), local("Montserrat-Bold"), url(../../assets/fonts/Montserrat/MontserratCyrExtBold.woff2) format("woff2");
-	unicode-range: u+0460-052f, u+1c80-1c88, u+20b4, u+2de0-2dff, u+a640-a69f, u+fe2e-fe2f
 }
 
 @font-face {
@@ -118,7 +109,6 @@ html {
 	font-style: normal;
 	font-weight: 700;
 	src: local("Montserrat Bold"), local("Montserrat-Bold"), url(../../assets/fonts/Montserrat/MontserratCyrBold.woff2) format("woff2");
-	unicode-range: u+0400-045f, u+0490-0491, u+04b0-04b1, u+2116
 }
 
 @font-face {
@@ -126,7 +116,6 @@ html {
 	font-style: normal;
 	font-weight: 700;
 	src: local("Montserrat Bold"), local("Montserrat-Bold"), url(../../assets/fonts/Montserrat/MontserratLatinExtBold.woff2) format("woff2");
-	unicode-range: u+0100-024f, u+0259, u+1e??, u+2020, u+20a0-20ab, u+20ad-20cf, u+2113, u+2c60-2c7f, u+a720-a7ff
 }
 
 @font-face {
@@ -134,7 +123,6 @@ html {
 	font-style: normal;
 	font-weight: 700;
 	src: local("Montserrat Bold"), local("Montserrat-Bold"), url(../../assets/fonts/Montserrat/MontserratLatinBold.woff2) format("woff2");
-	unicode-range: u+00??, u+0131, u+0152-0153, u+02bb-02bc, u+02c6, u+02da, u+02dc, u+2000-206f, u+2074, u+20ac, u+2122, u+2191, u+2193, u+2212, u+2215, u+feff, u+fffd
 }
 
 @font-face {
@@ -142,7 +130,6 @@ html {
 	font-style: normal;
 	font-weight: 300;
 	src: local("Roboto Slab Light"), local("RobotoSlab-Light"), url(../../assets/fonts/RobotoSlab/RobotoSlabCyrExtLight.woff2) format("woff2");
-	unicode-range: u+0460-052f, u+1c80-1c88, u+20b4, u+2de0-2dff, u+a640-a69f, u+fe2e-fe2f
 }
 
 @font-face {
@@ -150,7 +137,6 @@ html {
 	font-style: normal;
 	font-weight: 300;
 	src: local("Roboto Slab Light"), local("RobotoSlab-Light"), url(../../assets/fonts/RobotoSlab/RobotoSlabCyrLight.woff2) format("woff2");
-	unicode-range: u+0400-045f, u+0490-0491, u+04b0-04b1, u+2116
 }
 
 @font-face {
@@ -158,7 +144,6 @@ html {
 	font-style: normal;
 	font-weight: 300;
 	src: local("Roboto Slab Light"), local("RobotoSlab-Light"), url(../../assets/fonts/RobotoSlab/RobotoSlabLatinExtLight.woff2) format("woff2");
-	unicode-range: u+0100-024f, u+0259, u+1e??, u+2020, u+20a0-20ab, u+20ad-20cf, u+2113, u+2c60-2c7f, u+a720-a7ff
 }
 
 @font-face {
@@ -166,7 +151,6 @@ html {
 	font-style: normal;
 	font-weight: 300;
 	src: local("Roboto Slab Light"), local("RobotoSlab-Light"), url(../../assets/fonts/RobotoSlab/RobotoSlabLatinLight.woff2) format("woff2");
-	unicode-range: u+00??, u+0131, u+0152-0153, u+02bb-02bc, u+02c6, u+02da, u+02dc, u+2000-206f, u+2074, u+20ac, u+2122, u+2191, u+2193, u+2212, u+2215, u+feff, u+fffd
 }
 
 @font-face {
@@ -174,7 +158,6 @@ html {
 	font-style: normal;
 	font-weight: 400;
 	src: local("Roboto Slab Regular"), local("RobotoSlab-Regular"), url(../../assets/fonts/RobotoSlab/RobotoSlabCyrExtNormal.woff2) format("woff2");
-	unicode-range: u+0460-052f, u+1c80-1c88, u+20b4, u+2de0-2dff, u+a640-a69f, u+fe2e-fe2f
 }
 
 @font-face {
@@ -182,7 +165,6 @@ html {
 	font-style: normal;
 	font-weight: 400;
 	src: local("Roboto Slab Regular"), local("RobotoSlab-Regular"), url(../../assets/fonts/RobotoSlab/RobotoSlabCyrNormal.woff2) format("woff2");
-	unicode-range: u+0400-045f, u+0490-0491, u+04b0-04b1, u+2116
 }
 
 @font-face {
@@ -190,7 +172,6 @@ html {
 	font-style: normal;
 	font-weight: 400;
 	src: local("Roboto Slab Regular"), local("RobotoSlab-Regular"), url(../../assets/fonts/RobotoSlab/RobotoSlabLatinExtNormal.woff2) format("woff2");
-	unicode-range: u+0100-024f, u+0259, u+1e??, u+2020, u+20a0-20ab, u+20ad-20cf, u+2113, u+2c60-2c7f, u+a720-a7ff
 }
 
 @font-face {
@@ -198,7 +179,6 @@ html {
 	font-style: normal;
 	font-weight: 400;
 	src: local("Roboto Slab Regular"), local("RobotoSlab-Regular"), url(../../assets/fonts/RobotoSlab/RobotoSlabLatinNormal.woff2) format("woff2");
-	unicode-range: u+00??, u+0131, u+0152-0153, u+02bb-02bc, u+02c6, u+02da, u+02dc, u+2000-206f, u+2074, u+20ac, u+2122, u+2191, u+2193, u+2212, u+2215, u+feff, u+fffd
 }
 
 @font-face {
@@ -206,7 +186,6 @@ html {
 	font-style: normal;
 	font-weight: 700;
 	src: local("Roboto Slab Bold"), local("RobotoSlab-Bold"), url(../../assets/fonts/RobotoSlab/RobotoSlabCyrExtBold.woff2) format("woff2");
-	unicode-range: u+0460-052f, u+1c80-1c88, u+20b4, u+2de0-2dff, u+a640-a69f, u+fe2e-fe2f
 }
 
 @font-face {
@@ -214,7 +193,6 @@ html {
 	font-style: normal;
 	font-weight: 700;
 	src: local("Roboto Slab Bold"), local("RobotoSlab-Bold"), url(../../assets/fonts/RobotoSlab/RobotoSlabCyrNormal.woff2) format("woff2");
-	unicode-range: u+0400-045f, u+0490-0491, u+04b0-04b1, u+2116
 }
 
 @font-face {
@@ -222,7 +200,6 @@ html {
 	font-style: normal;
 	font-weight: 700;
 	src: local("Roboto Slab Bold"), local("RobotoSlab-Bold"), url(../../assets/fonts/RobotoSlab/RobotoSlabLatinExtNormal.woff2) format("woff2");
-	unicode-range: u+0100-024f, u+0259, u+1e??, u+2020, u+20a0-20ab, u+20ad-20cf, u+2113, u+2c60-2c7f, u+a720-a7ff
 }
 
 @font-face {
@@ -230,7 +207,6 @@ html {
 	font-style: normal;
 	font-weight: 700;
 	src: local("Roboto Slab Bold"), local("RobotoSlab-Bold"), url(../../assets/fonts/RobotoSlab/RobotoSlabLatinNormal.woff2) format("woff2");
-	unicode-range: u+00??, u+0131, u+0152-0153, u+02bb-02bc, u+02c6, u+02da, u+02dc, u+2000-206f, u+2074, u+20ac, u+2122, u+2191, u+2193, u+2212, u+2215, u+feff, u+fffd
 }
 
 .container {
