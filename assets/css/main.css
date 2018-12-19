@@ -340,7 +340,7 @@ html {
 	width: 30rem;
 	padding: 2rem 35px;
 	font-size: 16px;
-	font-family: Montserrat;
+	font-family: Montserrat, Arial, Helvetica, sans-serif;
 	font-weight: 700;
 	text-align: center;
 	text-decoration: none;
@@ -362,7 +362,7 @@ html {
 	transition: .7s ease-in-out;
 	border-bottom: 1px solid #1f2c6d;
 	padding-bottom: 5px;
-	font-family: Roboto Slab;
+	font-family: Roboto Slab, Georgia, 'Times New Roman', Times, serif;
 	font-size: 1.5rem
 }
 
@@ -401,7 +401,7 @@ html {
 }
 
 .article-title {
-	font-family: Montserrat;
+	font-family: Montserrat, Arial, Helvetica, sans-serif;
 	font-size: 3rem;
 	font-weight: 700;
 	text-align: center;
@@ -409,20 +409,20 @@ html {
 }
 
 .article-subtitle {
-	font-family: Roboto Slab;
+	font-family: Roboto Slab, Georgia, 'Times New Roman', Times, serif;
 	font-size: 1.7rem;
 	text-align: center
 }
 
 .title {
-	font-family: Montserrat;
+	font-family: Montserrat, Arial, Helvetica, sans-serif;
 	font-size: 2.8rem;
 	font-weight: 500;
 	padding: 1.5rem
 }
 
 .subtitle {
-	font-family: Roboto Slab;
+	font-family: Roboto Slab, Georgia, 'Times New Roman', Times, serif;
 	font-size: 1.6rem;
 	padding: 1.5rem;
 	color: #777;
@@ -430,7 +430,7 @@ html {
 }
 
 p {
-	font-family: Roboto Slab !important;
+	font-family: Roboto Slab,Georgia, 'Times New Roman', Times, serif !important;
 	padding-left: 2rem;
 	padding-right: 2rem;
 	width: 100%;
@@ -450,12 +450,12 @@ p {
 }
 
 .plain-text {
-	font-family: Roboto Slab;
+	font-family: Roboto Slab, Georgia, 'Times New Roman', Times, serif;
 	font-size: 1.7rem
 }
 
 a {
-	font-family: Montserrat;
+	font-family: Montserrat, Arial, Helvetica, sans-serif;
 	color: #3547a4;
 	text-decoration: none;
 	border-bottom: 1px solid #1f2c6d;
@@ -502,7 +502,7 @@ a:hover {
 .header__title {
 	color: #1f2c6d;
 	font-size: 2rem;
-	font-family: Montserrat;
+	font-family: Montserrat, Arial, Helvetica, sans-serif;
 	text-transform: uppercase;
 	font-weight: 500;
 	width: 85%
@@ -533,7 +533,7 @@ a:hover {
 
 p {
 	font-size: 24px;
-	font-family: Montserrat
+	font-family: Montserrat, Arial, Helvetica, sans-serif;
 }
 
 .navigation {
@@ -568,7 +568,7 @@ p {
 
 .navigation__link {
 	font-size: 1.7rem;
-	font-family: Montserrat;
+	font-family: Montserrat, Arial, Helvetica, sans-serif;
 	padding: 10px;
 	color: #fff
 }
@@ -668,7 +668,7 @@ p {
 	list-style: none;
 	padding: 0;
 	color: #fff;
-	font-family: Montserrat;
+	font-family: Montserrat, Arial, Helvetica, sans-serif;
 	font-size: 1.7rem;
 	padding: 10px
 }
@@ -754,7 +754,7 @@ p {
 	color: #fff !important;
 	background-color: #3547a4;
 	width: 250px;
-	font-family: Montserrat;
+	font-family: Montserrat, Arial, Helvetica, sans-serif;
 	text-align: center;
 	font-weight: 400;
 	padding: 15px 20px;
@@ -930,7 +930,7 @@ p {
 	border-radius: 5px;
 	margin: 10px;
 	font-size: 1.4rem;
-	font-family: Roboto Slab;
+	font-family: Roboto Slab, Georgia, 'Times New Roman', Times, serif;
 	width: 250px;
 	text-align: center
 }
@@ -971,7 +971,7 @@ p {
 
 .result,
 .slash {
-	font-family: Roboto Slab
+	font-family: Roboto Slab, Georgia, 'Times New Roman', Times, serif
 }
 
 .slash {
@@ -986,7 +986,7 @@ p {
 
 .questions,
 .text {
-	font-family: Roboto Slab
+	font-family: Roboto Slab, Georgia, 'Times New Roman', Times, serif
 }
 
 .text {
