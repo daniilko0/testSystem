@@ -68,7 +68,7 @@ function variables() {
 	//Информация о тесте
 
 	$currentQuestion = 1 //Текущий вопрос.
-	$amountOfQuestions = 22 //Общее количество вопросов
+	$amountOfQuestions = 20 //Общее количество вопросов
 
 	$amountOfTrueAnswers = 0 //Количество праильных ответов пользоователя
 
@@ -125,7 +125,7 @@ function variables() {
 			"questionImg": "",
 			"textAnswers": [1918, 2005, 1925, 1941],
 			"imgAnswers": "",
-			"trueAnswer": $a0
+			"trueAnswer": $a3
 		},
 		//Вопрос 5
 		{
@@ -232,19 +232,6 @@ function variables() {
 		},
 		//Вопрос 13
 		{
-			"question": "Когда был основан музей Д. А. Фурманова?",
-			"questionImg": "",
-			"textAnswers": [
-				1958,
-				1964,
-				1970,
-				1957
-			],
-			"imgAnswers": "",
-			"trueAnswer": $a0
-		},
-		//Вопрос 14
-		{
 			"question": "В каком веке появились первые текстильные предприятия на территории нашего города?",
 			"questionImg": "",
 			"textAnswers": [
@@ -256,7 +243,7 @@ function variables() {
 			"imgAnswers": "",
 			"trueAnswer": $a1
 		},
-		//Вопрос 15
+		//Вопрос 14
 		{
 			"question": "Кто основал музей Д. А. Фурманова?",
 			"questionImg": "",
@@ -269,20 +256,7 @@ function variables() {
 			"imgAnswers": "",
 			"trueAnswer": $a2
 		},
-		//Вопрос 16
-		{
-			"question": "В каком году Д. А. Фурманов написал свой знаменитый роман \"Чапаев\"?",
-			"questionImg": "",
-			"textAnswers": [
-				1924,
-				1940,
-				1923,
-				1930
-			],
-			"imgAnswers": "",
-			"trueAnswer": $a2
-		},
-		//Вопрос 17
+		//Вопрос 15
 		{
 			"question": "Входил ли Д. А. Трубников в Союз Художников России?",
 			"questionImg": "",
@@ -295,7 +269,7 @@ function variables() {
 			"imgAnswers": "",
 			"trueAnswer": $a2
 		},
-		//Вопрос 18
+		//Вопрос 16
 		{
 			"question": "Кому установлен этот бюст?",
 			"questionImg": "assets/images/37/main/places/gorbunov-grig-klem-censored.jpg",
@@ -308,7 +282,7 @@ function variables() {
 			"imgAnswers": "",
 			"trueAnswer": $a3
 		},
-		//Вопрос 19
+		//Вопрос 17
 		{
 			"question": "Как называлась улица Советская до Октябрьской революции?",
 			"questionImg": "",
@@ -321,7 +295,7 @@ function variables() {
 			],
 			"trueAnswer": $a3
 		},
-		//Вопрос 20
+		//Вопрос 18
 		{
 			"question": "Как называется высокий холм недалеко от села Михайловское?",
 			"questionImg": "",
@@ -334,7 +308,7 @@ function variables() {
 			"imgAnswers": "",
 			"trueAnswer": $a1
 		},
-		//Вопрос 21
+		//Вопрос 19
 		{
 			"question": "На какой улице Середы располагался памятник \"царю-освободителю\"?",
 			"questionImg": "",
@@ -347,7 +321,7 @@ function variables() {
 			"imgAnswers": "",
 			"trueAnswer": $a2
 		},
-		//Вопрос 22
+		//Вопрос 20
 		{
 			"question": "К какой губернии принадлежала Середа до 1918 года?",
 			"questionImg": "",
