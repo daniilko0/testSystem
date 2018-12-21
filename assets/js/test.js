@@ -293,7 +293,7 @@ function variables() {
 				"Улица Карла Маркса",
 				"Улица 1905 года"
 			],
-			"trueAnswer": $a3
+			"trueAnswer": $a1
 		},
 		//Вопрос 18
 		{
@@ -433,10 +433,11 @@ function verifyingAnswer(answer) {
 		$amountOfTrueAnswers++
 		$currentQuestion++
 		verifyingQuestion()
-		console.log(true)
+		console.info(true)
 	} else {
 		$currentQuestion++
 		verifyingQuestion()
+		console.error(false)
 	}
 
 }
